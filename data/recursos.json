@@ -1,0 +1,38 @@
+[
+  {
+    "id": "REC-001",
+    "titulo": "Modelo Predictivo de Incidencia Delictiva",
+    "descripcion": "Notebook de Jupyter con el preprocesamiento y entrenamiento de modelos (Regresión Lineal, Holt-Winters y Random Forest) utilizando la metodología CRISP-ML(Q).",
+    "criterios": {
+      "tipo": "Entornos de experimentación (.ipynb)",
+      "tema": "Inteligencia Artificial y Machine Learning",
+      "nivel": "Producción / Avanzado",
+      "fuente": "Desarrollo Académico"
+    },
+    "ubicacion": "notebooks/modelo_delitos_mexico.ipynb"
+  },
+  {
+    "id": "REC-002",
+    "titulo": "Esquema Relacional de Sistema de Aerolínea",
+    "descripcion": "Script para la creación de tablas y consultas estructuradas de prueba (incluyendo agrupaciones con GROUP BY y uniones RIGHT JOIN).",
+    "criterios": {
+      "tipo": "Código fuente / Scripts (.sql)",
+      "tema": "Arquitectura de Datos",
+      "nivel": "Desarrollo / Intermedio",
+      "fuente": "Referencia Externa (GitHub)"
+    },
+    "ubicacion": "src/esquema_aerolinea.sql"
+  },
+  {
+    "id": "REC-003",
+    "titulo": "Apuntes de Análisis de Circuitos BJT",
+    "descripcion": "Documentación y fórmulas sobre leyes de Kirchhoff y análisis de transistores BJT orientados al diseño de hardware.",
+    "criterios": {
+      "tipo": "Documentación (.md)",
+      "tema": "Electrónica y Hardware",
+      "nivel": "Fundamentos",
+      "fuente": "Iniciativa Personal"
+    },
+    "ubicacion": "docs/circuitos_hardware.md"
+  }
+]
