@@ -34,5 +34,17 @@
       "fuente": "Iniciativa Personal"
     },
     "ubicacion": "docs/circuitos_hardware.md"
+  },
+  {
+    "id": "REC-004",
+    "titulo": "Análisis de Riesgos Organizacionales para ECHO, A.C.",
+    "descripcion": "Documento de análisis de riesgos y evaluación de ciberseguridad estructurado para la asociación civil de apoyo a migrantes.",
+    "criterios": {
+      "tipo": "Documentación (.md)",
+      "tema": "Ciberseguridad y Privacidad",
+      "nivel": "Desarrollo / Intermedio",
+      "fuente": "Desarrollo Académico"
+    },
+    "ubicacion": "docs/analisis_riesgos_echo.md"
   }
 ]
